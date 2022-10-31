@@ -54,7 +54,7 @@ Prosper is a P2P lending platform that allows investors to choose among personal
 The employment status of the borrower at the time they posted the listing.
 The plot shows that it is rare that unemployed individual can obtain a loan from Prosper.
 
-![chart](img/1.png)
+![chart](1.png)
 ### Income Range:
 The income range of the borrower at the time the listing was created.
 The plot shows that most individual who has a loan has an income range from 25k to 75k.
@@ -62,7 +62,7 @@ The plot shows that most individual who has a loan has an income range from 25k 
 #### key insights conveyed by the explanatory presentation
 The key insight we observed here is that being unemployed is difficult to obtain a loan from Prosper.
 
-![chart](img/2.png)
+![chart](2.png)
 
 ## Bivariate Exploration
 
@@ -72,7 +72,7 @@ The key insight we observed here is that being unemployed is difficult to obtain
 The plot shows that it seems like occupation is a factor in the borrower's rate.
 The plot shows that occupation with lower average salary such as clerical, nurse's aid, bus driver and teacher's aide, have higher median rate than other occupations.
 
-![chart](img/10.png)
+![chart](10.png)
 
 
 
