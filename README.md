@@ -32,6 +32,7 @@ Project 2 - Data Wrangling
 
 The data wrangling stage of the data analysis process was thoroughly covered in this chapter. We gained knowledge of terms like "messy data" and "dirty data," as well as the assessment, definition, cleaning, and testing processes. Additionally, we covered a wide range of file types and data collection techniques.
 In this project, we had to deal with the messy and soiled data reality (again). We gathered information from various sources (such as the Twitter API) and noted problems with the dataset's organization and quality. We then had to work out these issues while meticulously documenting each step. The examination of the data was then the project's final goal.
+
 ![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
 
 Project 3 - ProsperLoan Data Exploration
