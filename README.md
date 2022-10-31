@@ -47,4 +47,37 @@ In this project, we had to deal with the messy and soiled data reality (again). 
 
 Project 3 - ProsperLoan Data Exploration
 
-The 113,937 loans in this data set have an average of 81 variables, such as loan amount, borrower rate (or interest rate), current loan status, borrower income, and many more. The variables in the data set are described in this data dictionary. All of the dataset's variables are not anticipated to be explored as part of the project goal! However, narrow your attention to exploring only 10 to 15 of them.
+Prosper is a P2P lending platform that allows investors to choose among personal loans to invest in. They do that by considering a number of factors, which include a custom calculated Prosper Score that represents the risk for each loan. The higher the score, the lower the risk, and the lower the interest rates paid by the borrower to the investors.
+
+## Univariate Exploration
+### Employment Status:
+The employment status of the borrower at the time they posted the listing.
+The plot shows that it is rare that unemployed individual can obtain a loan from Prosper.
+
+![chart](img/1.png)
+### Income Range:
+The income range of the borrower at the time the listing was created.
+The plot shows that most individual who has a loan has an income range from 25k to 75k.
+
+#### key insights conveyed by the explanatory presentation
+The key insight we observed here is that being unemployed is difficult to obtain a loan from Prosper.
+
+![chart](img/2.png)
+
+## Bivariate Exploration
+
+### Occupation against borrower's rate
+
+#### key insights conveyed by the explanatory presentation
+The plot shows that it seems like occupation is a factor in the borrower's rate.
+The plot shows that occupation with lower average salary such as clerical, nurse's aid, bus driver and teacher's aide, have higher median rate than other occupations.
+
+![chart](img/10.png)
+
+
+
+
+
+
+
+
