@@ -24,7 +24,7 @@ Recommended:
 
 ## Project Overview
 
-### P1: Investigate a dataset
+### Project 1: Investigate a dataset
 
 This analysis looks at data from two sources. The first is the [FBI's National Instant Criminal Background Check System (NICS)](https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state_type.pdf/view). Whenever an individual wants to undergo a transaction involving firearms or explosives, Federal Firearms Licensees (FFLs) have to input a background check into the system in order to make sure that the individual is eligible to complete the transaction. The data not only includes gun sales, but also other transactions such as concealed carry permits, rentals, private sales, and so on.
 
