@@ -74,6 +74,19 @@ The plot shows that occupation with lower average salary such as clerical, nurse
 
 ![chart](10.png)
 
+The plot of borrower's rate against occupation shows that computer programmer, judge are two occupations that stand out to have lower median rate. 
+Then I plot monthly loan payment against occupation and it shows that computer programmer, doctor and attorney have higher monthly payment.
+
+## Multivariate Exploration
+### Yearly Borrower rate vs. isHomeOwner
+
+#### key insights conveyed by the explanatory presentation
+
+According to the plot, it does seem like homeowners have a slightly lower rate that non-homeowner. 
+
+![chart](14.png)
+
+The plot of avg. yearly borrower's rate vs isHomeowner shows that homeowners have lower rate than non-homeowners, and this is true for every year recorded in the dataset.
 
 
 
