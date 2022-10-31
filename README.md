@@ -22,7 +22,7 @@ Recommended:
 
 * [Anaconda](https://www.anaconda.com/distribution/#download-section)
 
-## Project Overview
+## Projects Overview
 
 ### Project 1: Investigate a dataset
 
