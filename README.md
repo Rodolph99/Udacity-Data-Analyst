@@ -24,7 +24,7 @@ Recommended:
 
 ## Project Overview
 
-### P1: Explore Weather Trends
+### P1: Investigate a dataset
 
 This database provides information on the number of gun licenses allocated to each state and the number of sales of each type of weapon on the one hand, and on the population statistics of each state on the other in United States of America, leaves to make a study of a possible relationship existing between the two parties. In the first dataset we have as columns the list of the 50 states of the USA and in the other we have as columns: state, permit, permit_recheck, handgun, long_gun, other, multiple, admin, prepawn_handgun, ..., returned_other, rentals_handgun, rentals_long_gun, private_sale_handgun, private_sale_long_gun, private_sale_other, return_to_seller_handgun, return_to_seller_long_gun return_to_seller_other, totals.
 
