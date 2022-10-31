@@ -26,7 +26,17 @@ Recommended:
 
 ### P1: Investigate a dataset
 
-This database provides information on the number of gun licenses allocated to each state and the number of sales of each type of weapon on the one hand, and on the population statistics of each state on the other in United States of America, leaves to make a study of a possible relationship existing between the two parties. In the first dataset we have as columns the list of the 50 states of the USA and in the other we have as columns: state, permit, permit_recheck, handgun, long_gun, other, multiple, admin, prepawn_handgun, ..., returned_other, rentals_handgun, rentals_long_gun, private_sale_handgun, private_sale_long_gun, private_sale_other, return_to_seller_handgun, return_to_seller_long_gun return_to_seller_other, totals.
+This analysis looks at data from two sources. The first is the [FBI's National Instant Criminal Background Check System (NICS)](https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state_type.pdf/view). Whenever an individual wants to undergo a transaction involving firearms or explosives, Federal Firearms Licensees (FFLs) have to input a background check into the system in order to make sure that the individual is eligible to complete the transaction. The data not only includes gun sales, but also other transactions such as concealed carry permits, rentals, private sales, and so on.
+
+The other data comes from the US census and provides statistics by state for a variety of metrics. Most of this data is from the time period between 2010 and 2016.
+
+In this analysis, I combine these two data sources to look at the relationship between gun background checks and demographic data. First, I plot the overall trend of background checks and gun sales over the time period represented by the data. Additionally, I zoom in specifically on handgun, long gun, and multiple-gun sales to see if the frequency of these particular transactions have changed over time. Next, I show which states have the most total background checks, as well as which states are growing the fastest in this area. Finally, I examine the general demographic profile of states with higher background checks. In particular, I focus on race, veteran status, immigrant status, education, income, and population density.
+
+Here are the questions I answer in this analysis:
+- What is the overall trend of background checks and gun sales?
+- What is the overall trend of background checks split by gun category?
+- Which states have had the largest overall and largest growth in background checks per capita?
+- What demographic data correlates with background checks per capita by state?
 
 Project 2 - Data Wrangling
 
