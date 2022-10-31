@@ -38,14 +38,14 @@ Here are the questions I answer in this analysis:
 - Which states have had the largest overall and largest growth in background checks per capita?
 - What demographic data correlates with background checks per capita by state?
 
-Project 2 - Data Wrangling
+### Project 2 - Data Wrangling
 
 The data wrangling stage of the data analysis process was thoroughly covered in this chapter. We gained knowledge of terms like "messy data" and "dirty data," as well as the assessment, definition, cleaning, and testing processes. Additionally, we covered a wide range of file types and data collection techniques.
 In this project, we had to deal with the messy and soiled data reality (again). We gathered information from various sources (such as the Twitter API) and noted problems with the dataset's organization and quality. We then had to work out these issues while meticulously documenting each step. The examination of the data was then the project's final goal.
 
 ![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
 
-Project 3 - ProsperLoan Data Exploration
+### Project 3 - ProsperLoan Data Exploration
 
 Prosper is a P2P lending platform that allows investors to choose among personal loans to invest in. They do that by considering a number of factors, which include a custom calculated Prosper Score that represents the risk for each loan. The higher the score, the lower the risk, and the lower the interest rates paid by the borrower to the investors.
 
